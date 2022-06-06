@@ -1,2 +1,2 @@
-# LearnJavascript
-My first javascript
+# **Learn Javascript**
+> Javascript Deneme Tahtası
