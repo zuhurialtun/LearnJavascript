@@ -1,0 +1,2 @@
+# LearnJavascript
+My first javascript
